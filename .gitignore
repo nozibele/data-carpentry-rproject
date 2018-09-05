@@ -1,0 +1,8 @@
+#do not track this
+
+data
+download
+fig_output
+data_output
+
+*.Rproj

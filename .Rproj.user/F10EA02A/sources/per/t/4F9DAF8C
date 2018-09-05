@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536068023546.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4F9DAF8C",
+    "lastKnownWriteTime" : 8320793345944548136,
+    "last_content_update" : 1536068023546,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2084CEC6",
+        "caption" : "summarise_two",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=summarise_two&cache_key=2084CEC6",
+        "displayedObservations" : 48,
+        "environment" : "",
+        "object" : "summarise_two",
+        "preview" : 0,
+        "totalObservations" : 48,
+        "variables" : 3
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
